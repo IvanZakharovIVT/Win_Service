@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\SPO_lab3\SPO_lab3\obj\Debug\SPO_lab3.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SPO_lab3\SPO_lab3\obj\Debug\SPO_lab3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe.config
+C:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe
+C:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.pdb
+C:\Users\User\source\repos\SPO_lab3\SPO_lab3\obj\Debug\SPO_lab3.exe
+C:\Users\User\source\repos\SPO_lab3\SPO_lab3\obj\Debug\SPO_lab3.pdb
+C:\Users\User\source\repos\SPO_lab3\SPO_lab3\obj\Debug\SPO_lab3.ProjectInstaller.resources
+C:\Users\User\source\repos\SPO_lab3\SPO_lab3\obj\Debug\SPO_lab3.csproj.GenerateResource.cache

@@ -1,0 +1,171 @@
+﻿Выполняется установка сборки 'c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe
+   logfile = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.InstallLog
+Устанавливается служба MyFirstService...
+Служба MyFirstService успешно установлена.
+Создается исходный EventLog MyFirstService в журнале Application...
+Выполняется фиксация сборки 'c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe
+   logfile = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.InstallLog
+Выполняется удаление сборки 'c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe
+   logfile = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.InstallLog
+Выполняется удаление источника EventLog MyFirstService.
+Выполняется удаление службы MyFirstService из системы...
+Служба MyFirstService успешно удалена из системы.
+Выполняется установка сборки 'c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe
+   logfile = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.InstallLog
+Устанавливается служба MyFirstService...
+Служба MyFirstService успешно установлена.
+Создается исходный EventLog MyFirstService в журнале Application...
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe
+   logfile = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.InstallLog
+Выполняется установка сборки 'c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe
+   logfile = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.InstallLog
+Устанавливается служба MyFirstService...
+Создается исходный EventLog MyFirstService в журнале Application...
+Выполняется откат для сборки 'c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe
+   logfile = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.InstallLog
+Восстанавливается исходное состояние журнала событий для источника MyFirstService.
+Выполняется установка сборки 'c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe
+   logfile = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.InstallLog
+Устанавливается служба MyFirstService...
+Создается исходный EventLog MyFirstService в журнале Application...
+Выполняется откат для сборки 'c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe
+   logfile = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.InstallLog
+Восстанавливается исходное состояние журнала событий для источника MyFirstService.
+Выполняется установка сборки 'c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe
+   logfile = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.InstallLog
+Устанавливается служба MyFirstService...
+Создается исходный EventLog MyFirstService в журнале Application...
+Выполняется откат для сборки 'c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe
+   logfile = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.InstallLog
+Восстанавливается исходное состояние журнала событий для источника MyFirstService.
+Выполняется установка сборки 'c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe
+   logfile = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.InstallLog
+Устанавливается служба MyFirstService...
+Создается исходный EventLog MyFirstService в журнале Application...
+Выполняется откат для сборки 'c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe
+   logfile = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.InstallLog
+Восстанавливается исходное состояние журнала событий для источника MyFirstService.
+Выполняется установка сборки 'c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe
+   logfile = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.InstallLog
+Устанавливается служба MyFirstService...
+Создается исходный EventLog MyFirstService в журнале Application...
+Выполняется откат для сборки 'c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe
+   logfile = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.InstallLog
+Восстанавливается исходное состояние журнала событий для источника MyFirstService.
+Выполняется установка сборки 'c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe
+   logfile = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.InstallLog
+Устанавливается служба MyFirstService...
+Создается исходный EventLog MyFirstService в журнале Application...
+Выполняется откат для сборки 'c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe
+   logfile = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.InstallLog
+Восстанавливается исходное состояние журнала событий для источника MyFirstService.
+Выполняется установка сборки 'c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe
+   logfile = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.InstallLog
+Устанавливается служба MyFirstService...
+Служба MyFirstService успешно установлена.
+Создается исходный EventLog MyFirstService в журнале Application...
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe
+   logfile = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.InstallLog
+Выполняется удаление сборки 'c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe
+   logfile = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Выполняется удаление источника EventLog MyFirstService.
+Выполняется удаление службы MyFirstService из системы...
+Служба MyFirstService успешно удалена из системы.
+Выполняется установка сборки 'c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe
+   logfile = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.InstallLog
+Устанавливается служба MyFirstService...
+Создается исходный EventLog MyFirstService в журнале Application...
+Выполняется откат для сборки 'c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe
+   logfile = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.InstallLog
+Восстанавливается исходное состояние журнала событий для источника MyFirstService.
+Выполняется установка сборки 'c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe
+   logfile = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.InstallLog
+Устанавливается служба MyFirstService...
+Служба MyFirstService успешно установлена.
+Создается исходный EventLog MyFirstService в журнале Application...
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.exe
+   logfile = c:\Users\User\source\repos\SPO_lab3\SPO_lab3\bin\Debug\SPO_lab3.InstallLog
